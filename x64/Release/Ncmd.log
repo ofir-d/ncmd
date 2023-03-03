@@ -1,8 +1,0 @@
-﻿  Ncmd.cpp
-  The contents of <string_view> are available only with C++17 or later.
-  Generating code
-  8 of 11 functions (72.7%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  Ncmd.vcxproj -> C:\Users\ofir\source\repos\Ncmd\x64\Release\Ncmd.exe
